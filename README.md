@@ -33,10 +33,10 @@ In the emerging AI agent economy, many envision a future where agents run autono
 
 ```bash
 # Basic installation
-pip install Cloudz-AI
+pip install Blitz-AI
 
 # For local LLaMA support
-pip install Cloudz-AI[llama]  # Installs PyTorch and transformers
+pip install Blitz-AI[llama]  # Installs PyTorch and transformers
 ```
 
 ### Model Setup
